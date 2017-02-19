@@ -2,7 +2,7 @@ It's important to read the description at the top of each plugin to learn about 
 
 Any plugin that depends upon a Yanfly plugin requires you to abide by [Yanfly's Terms of Use](http://yanfly.moe/terms-of-use/).
 
-Unless otherwise noted, my work uses the following license:
+Unless otherwise noted, my work in this repository uses the following license:
 
 Copyright 2017 Nathan Bolton
 
